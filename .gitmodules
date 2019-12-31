@@ -1,0 +1,15 @@
+[submodule "Assignment3_CSCI466"]
+	path = Assignment3_CSCI466
+	url = https://github.com/Jrkeeling23/Assignment3_CSCI466.git
+[submodule "CSCI466Program1"]
+	path = CSCI466Program1
+	url = https://github.com/Jrkeeling23/CSCI466Program1.git
+[submodule "CSCI466_Program2"]
+	path = CSCI466_Program2
+	url = https://github.com/Jrkeeling23/CSCI466_Program2.git
+[submodule "CSCI_466_Program_4"]
+	path = CSCI_466_Program_4
+	url = https://github.com/Jrkeeling23/CSCI_466_Program_4.git
+[submodule "CSCI_466_Program_5"]
+	path = CSCI_466_Program_5
+	url = https://github.com/Jrkeeling23/CSCI_466_Program_5.git
